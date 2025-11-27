@@ -1,4 +1,4 @@
-from dns_utils import lookup_a_record, lookup_mx_record, lookup_txt_record, lookup_ns_record
+from server import lookup_a_record, lookup_mx_record, lookup_txt_record, lookup_ns_record
 import time
 
 def test_dns_tools():

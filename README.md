@@ -4,6 +4,13 @@
 
 A Model Context Protocol (MCP) server that provides DNS lookup capabilities using `dnspython`.
 
+## MCP Server URL
+
+```
+https://dnsmcp.fastmcp.app/mcp
+```
+
+
 ## Features
 
 - **A Records**: Look up IPv4 addresses.
